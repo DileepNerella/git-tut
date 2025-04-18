@@ -1,0 +1,25 @@
+This is a example file created for git demo and track 
+the basic commands used for the demo.
+
+--git init is command used for the creation of 
+git repo.
+--git status is used to see the current state of 
+git 
+
+there are four areas a developer need to be aware of when working with 
+git 
+
+1.working directory.
+2.staging area.
+3.local repo.
+4.remote repo.
+
+git push command is used for moving files from 
+local to remote.
+git commit is used to push files from staging area to local repo.
+the problem staging area solve is it helps to collect the files which can be moved to 
+local repo its a intermediatory where developer is still working 
+but dont want to push them yet.
+
+individual files can be added to staging area but not for the 
+local repo.
