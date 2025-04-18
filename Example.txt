@@ -23,3 +23,6 @@ but dont want to push them yet.
 
 individual files can be added to staging area but not for the 
 local repo.
+
+checkout is a command used for jumping between branches.
+
