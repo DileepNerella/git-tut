@@ -25,4 +25,8 @@ individual files can be added to staging area but not for the
 local repo.
 
 checkout is a command used for jumping between branches.
-
+take a check out of any node in the git of the repo using 
+git checkout <branch name> 
+git checkout -b "<>" is used to create a new branch in repo.
+git add .
+let add more details
